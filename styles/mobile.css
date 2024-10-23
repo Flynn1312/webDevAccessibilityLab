@@ -19,7 +19,8 @@ footer {
 }
 
 header {
-  background-color: #113448;
+  background-color: #113448; 
+  color: #fff;
 }
 
 header h1 {
